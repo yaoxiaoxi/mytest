@@ -3,3 +3,4 @@ This is a test line 1
 3rd line
 test modification in test1_branch
 test 2 modification in test1_branch
+test 3 modification in test1_branch
