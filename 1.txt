@@ -11,3 +11,5 @@ test 2 modification in test1_branch
 test 3 modification in test1_branch
 test 4 continue inn test1_branch
 test 5 continue in test1_branch
+test 6 continue in test1_branch
+
